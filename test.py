@@ -76,4 +76,3 @@ with open('item.json', "r", encoding="utf8") as file:
 
 
 bot.run(data['token'])
-queryPic('dfd')
